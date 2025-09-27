@@ -33,12 +33,12 @@
 - **Global Path Planning**: 출발지점 → 목적지까지 **지도상 최적 경로**(정적·준정적 장애물 기준)
 - **Local Path Planning**: 전역 경로 주변의 짧은 구간에서 실시간 장애물 변화를 반영한 **시간화된 실시간 궤적**
 
-### Global Path Planning
+### 🌎 Global Path Planning 
 <img src="https://github.com/user-attachments/assets/9d715dc8-1a16-4b09-8d59-ef6a32da80cd" width="480" />
 
 - A* 알고리즘을 활용해 시작지점부터 목적지점 까지의 경로 생성
 
-### Local Path Planning
+### 🚗 Local Path Planning
 |Local Path Planning|<img src="https://github.com/user-attachments/assets/f98f9d09-d441-4765-b9d6-be2fe3e91e37" width="360" />|
 |----|----|
 |Cost Function| <img src="https://github.com/user-attachments/assets/87d59054-d3e5-416c-92a9-150a1fd94f1f" width="420" /> |
