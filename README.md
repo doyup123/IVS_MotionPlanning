@@ -40,6 +40,19 @@
 
 ### Local Path Planning
 
+|Local Path Planning|<img width="645" height="304" alt="image" src="https://github.com/user-attachments/assets/f98f9d09-d441-4765-b9d6-be2fe3e91e37" />|
+|----|----|
+|Cost Function| <img width="700" height="354" alt="image" src="https://github.com/user-attachments/assets/87d59054-d3e5-416c-92a9-150a1fd94f1f" /> |
+
+## 2. Parking Mode
+|주차장 진입 경로 Global Path 생성| <img width="824" height="343" alt="image" src="https://github.com/user-attachments/assets/78f0b2d7-1e9c-45c8-8833-3441e5968a2c" /> |
+|---|---|
+|주차 경로 생성| <img width="918" height="354" alt="image" src="https://github.com/user-attachments/assets/0f4323a2-82de-4db5-95b0-9e7de6028a43" /> |
+
+
+
+
+
 
 
 
