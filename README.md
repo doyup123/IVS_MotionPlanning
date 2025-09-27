@@ -1,4 +1,5 @@
-<img width="522" height="495" alt="image" src="https://github.com/user-attachments/assets/bed39441-9e81-4ee8-8d45-563f12c4b2c8" />자율주행차의 경로 계획 및 제어 / ADAS Motion Planning & Control With Carmaker, MatLab&Simulink
+자율주행차의 경로 계획 및 제어 / ADAS Motion Planning & Control With Carmaker, MatLab&Simulink
+<img width="522" height="495" alt="image" src="https://github.com/user-attachments/assets/bed39441-9e81-4ee8-8d45-563f12c4b2c8" />
 ===========
 # 프로젝트 개요
 주어진 트랙에서 도로 주행 이후 원하는 구역에 주차 한다.
