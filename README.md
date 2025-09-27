@@ -35,7 +35,8 @@
 
 ### Global Path Planning
 <img width="751" height="424" alt="image" src="https://github.com/user-attachments/assets/9d715dc8-1a16-4b09-8d59-ef6a32da80cd" />
--A* 알고리즘을 활용해 시작지점부터 목적지점 까지의 경로 생성
+
+- A* 알고리즘을 활용해 시작지점부터 목적지점 까지의 경로 생성
 
 ### Local Path Planning
 
