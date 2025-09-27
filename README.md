@@ -19,9 +19,10 @@
 
 ## FSM 기반 SW 아키텍처
 목표 미션별 Mode를 다르게 하기 위해 FSM을 활용 
-<img width="953" height="505" alt="image" src="https://github.com/user-attachments/assets/1b17a7c2-2b82-4bd7-abb7-a4ead29db893" />
-------
-<img width="867" height="483" alt="image" src="https://github.com/user-attachments/assets/17cd8ae7-e145-4781-bb7d-bcd829e20725" />
+|<img width="953" height="505" alt="image" src="https://github.com/user-attachments/assets/1b17a7c2-2b82-4bd7-abb7-a4ead29db893" />|<img width="867" height="483" alt="image" src="https://github.com/user-attachments/assets/17cd8ae7-e145-4781-bb7d-bcd829e20725" />|
+|---|---|
+
+
 
 
 ## 시나리오 기반 TestCase 설계
