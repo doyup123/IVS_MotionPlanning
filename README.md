@@ -7,7 +7,6 @@
 |이름| 역할 | 프로젝트 기간|
 |-----|------|----|
 |김도엽  | 테스트 케이스 설계, SW 아키텍처 설계 , Global_path planning | 2025.05 ~ 2025.06|
-<img width="522" height="495" alt="image" src="https://github.com/user-attachments/assets/bed39441-9e81-4ee8-8d45-563f12c4b2c8" />
 
 ## 세부목표
 |세부 목표|내용|
