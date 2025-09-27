@@ -10,7 +10,7 @@
 |-----|------|----|
 |김도엽  | 테스트 케이스 설계, SW 아키텍처 설계 , Global_path planning | 2025.05 ~ 2025.06|
 
-|사용 Tool|MatLab & Simulink , CarMaker , Python|
+|사용 Tool|MatLab & Simulink / CarMaker / Python|
 |---|---|
 
 
