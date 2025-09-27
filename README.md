@@ -29,8 +29,8 @@
 ## 1. Driving Mode 
 ### 차량 추월 / 톨게이트 통과 / 차선 변경을 위한 Mode
 <img width="522" height="495" alt="image" src="https://github.com/user-attachments/assets/b35dc7ff-46ab-4388-ae0c-85259935c425" />
-- Global Path Planning : 출발지점 -> 목적지까지 **"지도상 최적 경로"** (정적 장애물 기준)
-- Local Paht Planning : 전역 경로 주변의 짧은 구간에서 실시간 장애물의 변화까지 반영한 **"실시간 경로"**
+  - Global Path Planning : 출발지점 -> 목적지까지 **"지도상 최적 경로"** (정적 장애물 기준)
+  - Local Paht Planning : 전역 경로 주변의 짧은 구간에서 실시간 장애물의 변화까지 반영한 **"실시간 경로"**
 
 ### Global Path Planning
 <img width="751" height="424" alt="image" src="https://github.com/user-attachments/assets/9d715dc8-1a16-4b09-8d59-ef6a32da80cd" />
