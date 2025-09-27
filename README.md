@@ -1,3 +1,5 @@
+자율주행차의 경로 계획 및 제어 / ADAS Motion Planning & Control With Carmaker, MatLab&Simulink
+===========
 ## 프로젝트 개요
 **주어진 트랙에서 도로 주행 이후 원하는 구역에 주차 한다.**
 <img src="https://github.com/user-attachments/assets/3dae7c26-785d-429b-89f3-62edfcbe3cf6" width="480" />
